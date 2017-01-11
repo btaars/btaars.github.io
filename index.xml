@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ghostwriter example</title>
-    <link>https://example.com/index.xml</link>
+    <link>https://btaars.github.io/index.xml</link>
     <description>Recent content on Ghostwriter example</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>My Name</copyright>
     <lastBuildDate>Wed, 11 Jan 2017 01:29:55 +0900</lastBuildDate>
-    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://btaars.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>my_post</title>
-      <link>https://example.com/2017/01/11/my_post/</link>
+      <link>https://btaars.github.io/2017/01/11/my_post/</link>
       <pubDate>Wed, 11 Jan 2017 01:29:55 +0900</pubDate>
       
-      <guid>https://example.com/2017/01/11/my_post/</guid>
+      <guid>https://btaars.github.io/2017/01/11/my_post/</guid>
       <description>&lt;p&gt;I had time during the new year holiday in Japan(年末年始), so I went online looking for a web framework to develop web applications in &lt;code&gt;golang&lt;/code&gt;. I accidently lended on the &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;hugo&lt;/a&gt; site and discovered this awesome tool. The concept is very simple: you can easily generate a static website in a few minutes. This was quite different from what I was looking for, but it looked interesting and I decided to give it a try. &lt;code&gt;hugo&lt;/code&gt; is suitable for blogging or creating simple websites, and I loved the workflow: to give you an overviiew,  here is how I add a new post.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;# Create the post
